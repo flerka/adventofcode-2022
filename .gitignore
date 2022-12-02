@@ -130,3 +130,5 @@ dmypy.json
 
 # ide
 .idea
+
+.DS_Store
