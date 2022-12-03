@@ -1,5 +1,5 @@
 from collections import Counter
-import string\
+import string
 
 
 def get_sum(chars):
