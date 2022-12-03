@@ -1,10 +1,5 @@
 from collections import Counter
-import string
-
-
-def read_lines(file):
-    content = file.read()
-    return [[group[:len(group) // 2], group[len(group) // 2:]] for group in content.split("\n")]
+import string\
 
 
 def get_sum(chars):
